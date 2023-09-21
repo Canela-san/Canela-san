@@ -1,5 +1,5 @@
+## Gabriel Canela
 
-<h1>Gabriel Canela</h1><br/> 
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Canela-san&&count_private=true&hide_rank=true&theme=dark&show_icons=true"/>
   <img height="200em" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canela-san&theme=dark"/>

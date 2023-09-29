@@ -1,5 +1,5 @@
 ## Gabriel Canela
-## ガブリエル カネ−ラ
+## ガブリエル・カネ−ラ
 
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Canela-san&&count_private=true&hide_rank=true&theme=dark&show_icons=true"/>

@@ -1,6 +1,6 @@
 # Olá! Eu sou o Gabriel Canela 👋
 
-Sou estudante do 8º semestre de **Engenharia de Controle e Automação na UNICAMP**, com dupla formação técnica em Informática. Tenho um grande interesse na intersecção entre hardware e software, desde a concepção de circuitos lógicos até a programação de baixo nível. 
+Sou estudante do 8º semestre de **Engenharia de Controle e Automação na UNICAMP**, com dupla formação técnica em Informática. Tenho um grande interesse na intersecção entre hardware e software, desde a concepção de circuitos lógicos até a programação de alto e baixo nível.
 
 ## 🚀 Projetos em Destaque
 

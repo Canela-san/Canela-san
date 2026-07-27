@@ -2,8 +2,6 @@
 
 Sou estudante do 8º semestre de **Engenharia de Controle e Automação na UNICAMP**, com dupla formação técnica em Informática. Tenho um grande interesse na intersecção entre hardware e software, desde a concepção de circuitos lógicos até a programação de baixo nível. 
 
-Em meus projetos — seja desenvolvendo no meu ambiente Linux PopOS! ou no Windows —, busco sempre priorizar a **alta qualidade, arquitetura e robustez** acima da velocidade de execução.
-
 ## 🚀 Projetos em Destaque
 
 ### 1. [ProcessorFromScratch](https://github.com/Canela-san/ProcessorFromScratch)
